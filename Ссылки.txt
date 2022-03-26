@@ -1,0 +1,13 @@
+https://docs.google.com/spreadsheets/d/1-O270GWbdWWdJoH1sjdGlIOiJwAUTukNSgg4KLPAkLc/edit#gid=0   - форма для регистрации
+
+Сайты компании:
+
+https://ruyou.ru/ 
+https://msk.ruyou.ru/
+
+Стек технологий
+
+- PHP
+- JavaScript / React / React Native
+- IOS
+- Android (Kotlin)
